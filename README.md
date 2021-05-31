@@ -7,8 +7,8 @@
 - [MOVIEEZE](https://culla.herokuapp.com/movieeze) - Movie Recommender for 2010-Present
 
 ### Notable Repos for Beginners
-- flask-wip - basic flask site setup
-- python-flask-nft-metadata - serve up your nft collections metadata, quickly and easily
+- [flask-wip](https://github.com/tamccullough/flask-wip) - basic flask site setup
+- [python-flask-nft-metadata](https://github.com/tamccullough/python-flask-nft-metadata) - serve up your nft collections metadata, quickly and easily
 
 ### I am on Twitter
 - [tamccullough](https://twitter.com/tamccullough)
