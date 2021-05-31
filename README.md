@@ -6,6 +6,10 @@
 - [COVON](https://culla.herokuapp.com/covid) - Covid-19 Dashboard for the province of Ontario, Canada
 - [MOVIEEZE](https://culla.herokuapp.com/movieeze) - Movie Recommender for 2010-Present
 
+### Notable Repos for Beginners
+- flask-wip - basic flask site setup
+- python-flask-nft-metadata - serve up your nft collections metadata, quickly and easily
+
 ### I am on Twitter
 - [tamccullough](https://twitter.com/tamccullough)
 ### NFT Marketplace - Opening soon, I just need to sort the ETH
