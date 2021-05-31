@@ -11,10 +11,11 @@
 - [flask-wip](https://github.com/tamccullough/flask-wip) - basic flask site setup
 - [python-flask-nft-metadata](https://github.com/tamccullough/python-flask-nft-metadata) - serve up your nft collections metadata, quickly and easily
 
-### On Twitter
+### Links
 
-- [tamccullough](https://twitter.com/tamccullough)
-- 
+- [twitter](https://twitter.com/tamccullough)
+- [LinkedIn](https://www.linkedin.com/in/tamccullough/)
+
 ### NFT Marketplace - Opening soon, I just need to sort the ETH
 
 - [culla NFT](https://opensea.io/accounts/culla)
