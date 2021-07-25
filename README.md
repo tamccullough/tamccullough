@@ -3,7 +3,7 @@
 - I’m interested in art 🧑‍🎨 and development 🧑‍💻
 - I’m currently seeking work - 🌱 fresh out of school last year 2020 and 1999
 ### Check Out my Projects
-- [XGXA](https://www.xgxa.com/) - CanPL Soccer Fan Destination 
+- [XGXA](https://www.xgxa.ca/) - CanPL Soccer Fan Destination 
 - [COVON](https://www.duub.ca/covid) - Covid-19 Dashboard for the province of Ontario, Canada
 - [MOVIEEZE](https://www.duub.ca/movieeze) - Movie Recommender for 2010-Present
 
