@@ -1,5 +1,5 @@
 ### Looking for NFTs?
-- I made the NFT collectibles DeeManz
+- I made the NFT collectibles [DeeManz](https://www.duub.ca/)
 
 ### I do love me some Socceer - Especially the game played in Canada
 - [XGXA](https://www.xgxa.ca/) - CanPL Soccer Fan Destination 
