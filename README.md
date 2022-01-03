@@ -1,6 +1,7 @@
 ### Looking for NFTs?
-- [DeeManz](https://objkt.com/profile/tz1gE27FWHXzisp1SgkuupZ44g4t8mETafMG/creations?search=deemanz)
+- [Basqunks](https://objkt.com/collection/KT1DtsVHqUvKBkkypLB3x2bYd4jWdbbaHdMy)
 - [V0iDs](https://objkt.com/profile/tz1gE27FWHXzisp1SgkuupZ44g4t8mETafMG/creations?search=v0id)
+- [DeeManz](https://objkt.com/profile/tz1gE27FWHXzisp1SgkuupZ44g4t8mETafMG/creations?search=deemanz)
 
 ### I do love me some Socceer - Especially the game played in Canada
 - [XGXA](https://www.xgxa.ca/) - CanPL Soccer Fan Destination 
